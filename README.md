@@ -1,4 +1,4 @@
-### 안녕하세요 성장하는 개발자 정성현입니다.👋
+## 안녕하세요 성장하는 개발자 정성현입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongseonghyeon&count_bg=%233D56C8&title_bg=%23000000&icon=fluentd.svg&icon_color=%239E9E9C&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
